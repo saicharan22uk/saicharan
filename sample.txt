@@ -1,3 +1,1 @@
-<html>
-<head>welcome to devops lad</head>
-</html>
+welcome to devops lab
